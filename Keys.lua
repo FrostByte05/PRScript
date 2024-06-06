@@ -1,7 +1,7 @@
 local keys = {}
 
 keys.ValidKeys = {
-    'testkey',
+    'testkey1',
     'testkey2'
 }
 
