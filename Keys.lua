@@ -1,11 +1,13 @@
 local keys = {
-  'testkey',
-  'testkey2'
+    'testkey',
+    'testkey2'
 }
-
+  
 local function CheckKey(Key)
-  if string.find(Key, keys) then
-    return Key
-  else
-    print("No")
+    if string.find(keys, Key) then
+        print("Yes")
+    else
+        print("No")
+    end
 end
+  
