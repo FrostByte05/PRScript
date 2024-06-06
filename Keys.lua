@@ -1,8 +1,8 @@
 local keys
 
 keys.ValidKeys = {
-    ['testkey'] = true,
-    ['testkey2'] = true
+    'testkey',
+    'testkey2'
 }
 
 return keys
