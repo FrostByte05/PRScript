@@ -1,4 +1,4 @@
-local keys
+local keys = {}
 
 keys.ValidKeys = {
     'testkey',
