@@ -1,4 +1,4 @@
-local Keys = {
+local keys = {
   'testkey',
   'testkey2'
 }
