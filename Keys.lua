@@ -1,14 +1,8 @@
-local keys = {
-    'testkey',
-    'testkey2'
+local keys
+
+keys.ValidKeys = {
+    ['testkey'] = true,
+    ['testkey2'] = true
 }
-  
-local function keys_CheckKeys(Key)
-    if string.find(keys, Key) then
-        print("Yes")
-    else
-        print("No")
-    end
-end
 
 return keys
