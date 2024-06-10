@@ -1,4 +1,3 @@
-# PRScript
+# Premkour reborn scripts
 
-This script is mainly for ParkourReborn
-Work in progress script
+Premkour reborn!!!
